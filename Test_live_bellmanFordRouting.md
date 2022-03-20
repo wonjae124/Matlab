@@ -53,5 +53,12 @@ function [p] = Test_live_bellmanFordRouting(c,d)
     
 end
 ```
+![image](https://user-images.githubusercontent.com/67944072/159161166-542ba355-cc5b-4dfb-84c9-1e51566f420d.png)
+![image](https://user-images.githubusercontent.com/67944072/159161174-f06a1cd6-734e-4d43-8f7c-30bb1b8bcc81.png)
+![image](https://user-images.githubusercontent.com/67944072/159161181-1e79d0bc-85df-40af-a74c-4e5da51849a2.png)
+![image](https://user-images.githubusercontent.com/67944072/159161187-eb351445-ad62-4bc8-b799-164e33a5d233.png)
+![image](https://user-images.githubusercontent.com/67944072/159161195-1cdd7eb0-3cd9-4cb4-b6bf-8cdcb0e2c436.png)
+![image](https://user-images.githubusercontent.com/67944072/159161206-1ee41200-fe9a-4f1b-b4cf-888be2ea24ef.png)
 
-![image](https://user-images.githubusercontent.com/67944072/159161037-98c6d250-9cc5-45ee-9c98-3b9dcfceff4f.png)
+
+
