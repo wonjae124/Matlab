@@ -15,8 +15,12 @@ rot_spec_36 = "quantref_biplane16k_LR_R_rot_36_*"
 rot_spec_72 = "quantref_biplane16k_LR_R_rot_72_*"
 
 
+0도의 max_row는 1
+36도는 22 
+72도는 28임
 
 
+==========================
 
 
 
