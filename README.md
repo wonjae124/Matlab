@@ -10,6 +10,10 @@ rot_spec_0 = "quantref_biplane16k_LR_R_rot_0_*"
 rot_spec_36 = "quantref_biplane16k_LR_R_rot_36_*"
 
 
+72도 회전시 작업공간
+![image](https://user-images.githubusercontent.com/67944072/160246878-ee6e2fb5-9ea3-44b8-a217-b8b1d3a040b4.png)
+rot_spec_72 = "quantref_biplane16k_LR_R_rot_72_*"
+
 
 
 
